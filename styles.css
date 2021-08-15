@@ -189,4 +189,5 @@ body{
     width: 60%;
     padding: 5%;
     opacity: 0;
+    display: none;
 }

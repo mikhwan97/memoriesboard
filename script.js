@@ -17,7 +17,7 @@ $(document).ready(function() {
   }
 
   function addElement(target) {
-    target.delay(800).animate({
+    target.delay(800).show().animate({
       opacity: "+=1"
     });
   }
